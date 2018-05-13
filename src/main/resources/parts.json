@@ -1,0 +1,42 @@
+[
+  {
+    "Part": "00156C2_model_r_0.sldprt",
+    "Manufacturing Process": "CNC",
+    "Material": "Aluminum",
+    "Finish": "Black Anodize",
+    "AutoITScript": "00156C2_model_r_0.exe",
+    "Cost": "$729.85"
+  },
+  {
+    "Part": "insert_for_COB.stl",
+    "Manufacturing Process": "3D Printing",
+    "Material": "Multi-material",
+	"Finish": "Standard",
+    "AutoITScript": "insert_for_COB.exe",
+    "Cost": "$785.82"
+  },
+  {
+    "Part": "extrude_2.prt",
+    "Manufacturing Process": "3D Printing",
+    "Material": "Nylon",
+    "Finish": "Dyed Black",
+    "AutoITScript": "extrude_2.exe",
+    "Cost": "$3,436.92"
+  },
+  {
+    "Part": "0017DD5_model_r_1.step",
+    "Manufacturing Process": "Sheet Metal",
+    "Material": "Copper",
+    "Finish": "Gold Plating",
+    "AutoITScript": "0017DD5_model_r_1.exe",
+    "Cost": "$4,554.85"
+  },
+  {
+    "Part": "Gear.x_t",
+    "Manufacturing Process": "Casting",
+    "Material": "Urethane Casting",
+    "Finish": "Standard",
+    "AutoITScript": "Gear.exe",
+    "Cost": "$4,969.60"
+  }
+]
